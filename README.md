@@ -34,7 +34,7 @@ npm install
 # JWT_SECRET=<your_secret>
 npm run dev
 
-### Frontend
+## Frontend
 cd client
 npm install
 # .env setup:
